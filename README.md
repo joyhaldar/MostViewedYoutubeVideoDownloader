@@ -1,6 +1,6 @@
 # MostViewedYoutubeVideoDownloader
 
-Search for a string, see the top 10 most viewd videos, choose one to download!
+Search for a string, see the top 10 most viewed videos, choose one to download!
 
 Dependencies:
 pip install pytube3
